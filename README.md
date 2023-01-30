@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Trixa](https://github.com/TrixaMC)
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 📫 How to reach me **Squash#0007** on discord
+- 📫 My discord, **Squash#0007**
 <p align="left">
 </p>
