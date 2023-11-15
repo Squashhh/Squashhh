@@ -1,2 +1,3 @@
-<h1 align="center">Hi 👋, I'm Squashhh</h1>
-<h3 align="center">Young French passion developer lets his imagination run wild.</h3>
+# Hi 👋, I'm Squashhh
+
+I'm a French developer, learning every day ! I let my imagination run wild ! Want to find out more about me? Visit my [portfolio](https://squashhh.me) !
